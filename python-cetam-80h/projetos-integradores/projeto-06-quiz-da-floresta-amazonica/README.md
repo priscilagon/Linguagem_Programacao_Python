@@ -3,7 +3,7 @@
 | **Ficha do projeto** |  |
 | --- | --- |
 | **Tema** | Jogo de perguntas e respostas com pontuação |
-| **Nível** | ★☆☆☆☆ |
+| **Nível** | ★★★★★ |
 | **Tempo sugerido** | 4 a 6 horas |
 | **Forma de trabalho** | individual ou dupla |
 | **Aulas relacionadas** | Aulas 1 a 10 |
