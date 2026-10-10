@@ -3,7 +3,7 @@
 | Ficha do projeto |  |
 | --- | --- |
 | **Tema** | Ponto de venda de uma feira regional |
-| **Nível** | ★☆☆☆☆ |
+| **Nível** | ★★★★★ |
 | **Conteúdos** | Aulas 1 a 10: variáveis, tipos, `input()`, operadores, `if/elif/else`, `while`, `break`, `continue` |
 | **Tempo sugerido** | 4 a 6 horas |
 | **Organização** | individual ou dupla |
