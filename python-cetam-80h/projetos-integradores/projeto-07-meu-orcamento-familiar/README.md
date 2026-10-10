@@ -3,7 +3,7 @@
 | **Ficha do projeto** |  |
 | --- | --- |
 | **Tema** | Controle de receitas e despesas por categoria |
-| **Nível** | ★★☆☆☆ |
+| **Nível** | ★★★★★ |
 | **Tempo sugerido** | 6 a 8 horas |
 | **Forma de trabalho** | individual ou dupla |
 | **Aulas relacionadas** | Aulas 1 a 14 |
