@@ -3,7 +3,7 @@
 | **Ficha do projeto** |  |
 | --- | --- |
 | **Tema** | Jogo da forca com palavras da fauna e da flora regionais |
-| **Nível** | ★★★☆☆ |
+| **Nível** | ★★★★★ |
 | **Tempo sugerido** | 8 a 10 horas |
 | **Forma de trabalho** | dupla |
 | **Aulas relacionadas** | Aulas 1 a 16 |
