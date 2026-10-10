@@ -1,0 +1,16 @@
+name: Verificar código Python
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  sintaxe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verificar a sintaxe de todos os arquivos .py
+        run: python -m compileall -q aulas projeto-integrador-agencia-tur projetos-integradores tools
