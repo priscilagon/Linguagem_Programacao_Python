@@ -3,7 +3,7 @@
 | **Ficha do projeto** |  |
 | --- | --- |
 | **Tema** | Cadastro com busca, edição, remoção e persistência |
-| **Nível** | ★★★★☆ |
+| **Nível** | ★★★★★ |
 | **Tempo sugerido** | 10 a 12 horas |
 | **Forma de trabalho** | dupla |
 | **Aulas relacionadas** | Aulas 1 a 17 |
