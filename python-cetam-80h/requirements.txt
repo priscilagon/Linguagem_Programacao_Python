@@ -1,3 +1,0 @@
-# O curso usa apenas a biblioteca padrão do Python.
-# Opcional (desafio extra do Projeto 2 - gráfico):
-# matplotlib
