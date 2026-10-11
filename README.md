@@ -1,6 +1,6 @@
 # Linguagem de Programação Python – CETAM (80h)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13%2B-3776AB?logo=python&logoColor=white)
 ![Carga horária](https://img.shields.io/badge/carga%20hor%C3%A1ria-80h-1F6FB2)
 ![Aulas](https://img.shields.io/badge/aulas-20-1B7F4B)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-C9A227)
