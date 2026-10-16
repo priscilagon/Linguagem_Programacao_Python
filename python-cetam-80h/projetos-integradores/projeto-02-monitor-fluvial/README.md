@@ -3,9 +3,9 @@
 | Ficha do projeto |  |
 | --- | --- |
 | **Tema** | Análise de medições do nível de um rio |
-| **Nível** | ★★☆☆☆ |
+| **Nível** | ★★★★★ |
 | **Conteúdos** | Aulas 1 a 14: listas, dicionários, strings, `for`/`range`, decisões, métodos de listas e funções internas |
-| **Tempo sugerido** | 6 a 8 horas |
+| **Tempo sugerido** | 2 a 4 horas |
 | **Organização** | individual ou dupla |
 
 ## Cenário
