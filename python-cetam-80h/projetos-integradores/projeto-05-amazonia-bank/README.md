@@ -5,8 +5,8 @@
 | **Tema** | Sistema bancário com POO, arquivos e login |
 | **Nível** | ★★★★★ |
 | **Conteúdos** | Aulas 1 a 19: classes e objetos, métodos, atributos, dicionário de objetos, arquivos, funções, menus aninhados e validações |
-| **Tempo sugerido** | 12 a 16 horas |
-| **Organização** | dupla |
+| **Tempo sugerido** | 2 a 4 horas |
+| **Organização** | individual ou dupla |
 
 ## Cenário
 
