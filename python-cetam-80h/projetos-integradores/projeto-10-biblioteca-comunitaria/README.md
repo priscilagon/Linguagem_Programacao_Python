@@ -4,8 +4,8 @@
 | --- | --- |
 | **Tema** | Sistema de empréstimos orientado a objetos |
 | **Nível** | ★★★★★ |
-| **Tempo sugerido** | 12 a 16 horas |
-| **Forma de trabalho** | dupla |
+| **Tempo sugerido** | 2 a 4 horas |
+| **Forma de trabalho** | individual ou dupla |
 | **Aulas relacionadas** | Aulas 1 a 19 |
 | **Conteúdos** | classes e objetos que colaboram entre si, dicionário de objetos, arquivos, validações e regras de negócio |
 
