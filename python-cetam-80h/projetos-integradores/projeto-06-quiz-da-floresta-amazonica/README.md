@@ -3,8 +3,8 @@
 | **Ficha do projeto** |  |
 | --- | --- |
 | **Tema** | Jogo de perguntas e respostas com pontuação |
-| **Nível** | ★☆☆☆☆ |
-| **Tempo sugerido** | 4 a 6 horas |
+| **Nível** | ★★★★★ |
+| **Tempo sugerido** | 2 a 4 horas |
 | **Forma de trabalho** | individual ou dupla |
 | **Aulas relacionadas** | Aulas 1 a 10 |
 | **Conteúdos** | variáveis, `input()`, operadores, `if/elif/else`, `while`, `for/range`, contadores e acumuladores |
