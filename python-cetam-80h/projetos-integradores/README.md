@@ -11,9 +11,9 @@ Dez projetos, em **dificuldade crescente** (dois ciclos de 1 a 5), para praticar
 | [4 – Boletim Escolar Digital](projeto-04-boletim-escolar-digital/) | ★★★★★ | listas de dicionários, funções, strings, arquivos `.txt` (leitura e escrita), laços e decisões | 2 a 4 horas (individual ou dupla) |
 | [5 – Amazônia Bank: Mini-Banco Digital](projeto-05-amazonia-bank/) | ★★★★★ | classes e objetos, métodos, atributos, dicionário de objetos, arquivos, funções, menus aninhados e validações | 2 a 4 horas (individual ou dupla) |
 | **Volume 2** | | | |
-| [6 – Quiz da Floresta Amazônica](projeto-06-quiz-da-floresta-amazonica/) | ★★★★★ | variáveis, `input()`, operadores, `if/elif/else`, `while`, `for`/`range`, contadores e acumuladores | 4 a 6 horas (individual ou dupla) |
+| [6 – Quiz da Floresta Amazônica](projeto-06-quiz-da-floresta-amazonica/) | ★★★★★ | variáveis, `input()`, operadores, `if/elif/else`, `while`, `for`/`range`, contadores e acumuladores | 2 a 4 horas (individual ou dupla) |
 | [7 – Meu Orçamento Familiar](projeto-07-meu-orcamento-familiar/) | ★★★★★ | listas, dicionários, listas de dicionários, strings, `for`/`range`, decisões e validações | 2 a 4 horas (individual ou dupla) |
-| [8 – Forca Amazônica](projeto-08-forca-amazonica/) | ★★★★★ | funções com parâmetros e retorno, tuplas, listas, strings, laços e decisões | 8 a 10 horas (dupla) |
+| [8 – Forca Amazônica](projeto-08-forca-amazonica/) | ★★★★★ | funções com parâmetros e retorno, tuplas, listas, strings, laços e decisões | 2 a 4 horas (individual ou dupla) |
 | [9 – Agenda de Contatos Comunitária](projeto-09-agenda-de-contatos-comunitaria/) | ★★★★★ | funções, listas de dicionários, strings, validações, arquivos `.txt`, busca, edição e remoção | 2 a 4 horas (individual ou dupla) |
 | [10 – Biblioteca Comunitária](projeto-10-biblioteca-comunitaria/) | ★★★★★ | classes e objetos que colaboram entre si, dicionário de objetos, arquivos, validações e regras de negócio | 2 a 4 horas (individual ou dupla) 
 ## Como desenvolver
