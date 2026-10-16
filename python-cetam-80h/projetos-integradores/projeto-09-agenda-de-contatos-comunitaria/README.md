@@ -3,9 +3,9 @@
 | **Ficha do projeto** |  |
 | --- | --- |
 | **Tema** | Cadastro com busca, edição, remoção e persistência |
-| **Nível** | ★★★★☆ |
-| **Tempo sugerido** | 10 a 12 horas |
-| **Forma de trabalho** | dupla |
+| **Nível** | ★★★★★ |
+| **Tempo sugerido** | 2 a 4 horas |
+| **Forma de trabalho** | individual ou dupla |
 | **Aulas relacionadas** | Aulas 1 a 17 |
 | **Conteúdos** | funções, listas de dicionários, strings, validações, arquivos `.txt`, busca, edição e remoção |
 
