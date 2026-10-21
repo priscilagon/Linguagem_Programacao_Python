@@ -3,9 +3,9 @@
 | **Ficha do projeto** |  |
 | --- | --- |
 | **Tema** | Jogo da forca com palavras da fauna e da flora regionais |
-| **Nível** | ★★★☆☆ |
-| **Tempo sugerido** | 8 a 10 horas |
-| **Forma de trabalho** | dupla |
+| **Nível** | ★★★★★ |
+| **Tempo sugerido** | 2 a 4 horas |
+| **Forma de trabalho** | individual ou dupla |
 | **Aulas relacionadas** | Aulas 1 a 16 |
 | **Conteúdos** | funções com parâmetros e retorno, tuplas, listas, strings, laços e decisões |
 

@@ -3,8 +3,8 @@
 | **Ficha do projeto** |  |
 | --- | --- |
 | **Tema** | Controle de receitas e despesas por categoria |
-| **Nível** | ★★☆☆☆ |
-| **Tempo sugerido** | 6 a 8 horas |
+| **Nível** | ★★★★★ |
+| **Tempo sugerido** | 2 a 4 horas |
 | **Forma de trabalho** | individual ou dupla |
 | **Aulas relacionadas** | Aulas 1 a 14 |
 | **Conteúdos** | listas, dicionários, listas de dicionários, strings, `for/range`, decisões e validações |

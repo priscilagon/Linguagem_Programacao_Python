@@ -3,10 +3,10 @@
 | Ficha do projeto |  |
 | --- | --- |
 | **Tema** | Controle de estoque e vendas com funções |
-| **Nível** | ★★★☆☆ |
+| **Nível** | ★★★★★ |
 | **Conteúdos** | Aulas 1 a 16: dicionários aninhados, funções com parâmetros e retorno, menu com `while`, validações, strings |
-| **Tempo sugerido** | 8 a 10 horas |
-| **Organização** | dupla |
+| **Tempo sugerido** | 2 a 4 horas |
+| **Organização** | individual ou dupla |
 
 ## Cenário
 

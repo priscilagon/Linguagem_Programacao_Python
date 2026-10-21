@@ -3,10 +3,10 @@
 | Ficha do projeto |  |
 | --- | --- |
 | **Tema** | Cadastro de alunos e notas com persistência em arquivo |
-| **Nível** | ★★★★☆ |
+| **Nível** | ★★★★★ |
 | **Conteúdos** | Aulas 1 a 17: listas de dicionários, funções, strings, arquivos `.txt` (leitura e escrita), laços e decisões |
-| **Tempo sugerido** | 8 a 12 horas |
-| **Organização** | dupla |
+| **Tempo sugerido** | 2 a 4 horas |
+| **Organização** | individual ou dupla |
 
 ## Cenário
 
