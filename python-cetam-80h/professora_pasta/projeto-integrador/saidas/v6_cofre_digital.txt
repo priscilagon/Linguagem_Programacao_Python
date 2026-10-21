@@ -1,0 +1,84 @@
+### 1ª execução: cadastro, login correto e incorreto, validações e opção inválida
+### entradas: 1 | marina | 1234 | 2 | marina | 1234 | 2 | marina | errada | 1 |  | 123 | 1 | ana;x | abc | 9 | 0
+
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 1
+Nome de usuário: marina
+Senha: 1234
+Usuário cadastrado com sucesso!
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 2
+Nome de usuário: marina
+Senha: 1234
+Bem-vindo(a) ao cofre digital, marina!
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 2
+Nome de usuário: marina
+Senha: errada
+Usuário ou senha incorretos.
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 1
+Nome de usuário: 
+Senha: 123
+Nome e senha são obrigatórios.
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 1
+Nome de usuário: ana;x
+Senha: abc
+O caractere ; não é permitido.
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 9
+Opção inválida.
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 0
+Até logo!
+
+----------------------------------------
+
+### 2ª execução: o usuário continua cadastrado (persistência)
+### entradas: 2 | marina | 1234 | 0
+
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 2
+Nome de usuário: marina
+Senha: 1234
+Bem-vindo(a) ao cofre digital, marina!
+
+=== COFRE DIGITAL - AGÊNCIA AMAZÔNIA TUR ===
+1 - Cadastrar usuário
+2 - Entrar
+0 - Sair
+Escolha: 0
+Até logo!

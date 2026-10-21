@@ -1,0 +1,48 @@
+### execução de teste
+### entradas: 3 | 1 | 3 | 330 | 2 | 9 | 0
+
+
+=== AGÊNCIA AMAZÔNIA TUR DIGITAL ===
+1 - Calcular viagem
+2 - Ver destinos
+3 - Ver orçamento limite
+0 - Sair
+Escolha uma opção: 3
+Orçamento limite: R$ 1000.00
+
+=== AGÊNCIA AMAZÔNIA TUR DIGITAL ===
+1 - Calcular viagem
+2 - Ver destinos
+3 - Ver orçamento limite
+0 - Sair
+Escolha uma opção: 1
+Dias: 3
+Gasto por dia: 330
+Total: R$ 990.00
+
+=== AGÊNCIA AMAZÔNIA TUR DIGITAL ===
+1 - Calcular viagem
+2 - Ver destinos
+3 - Ver orçamento limite
+0 - Sair
+Escolha uma opção: 2
+- Parintins
+- Novo Airão
+- Presidente Figueiredo
+- Maués
+
+=== AGÊNCIA AMAZÔNIA TUR DIGITAL ===
+1 - Calcular viagem
+2 - Ver destinos
+3 - Ver orçamento limite
+0 - Sair
+Escolha uma opção: 9
+Opção inválida!
+
+=== AGÊNCIA AMAZÔNIA TUR DIGITAL ===
+1 - Calcular viagem
+2 - Ver destinos
+3 - Ver orçamento limite
+0 - Sair
+Escolha uma opção: 0
+Até logo!
