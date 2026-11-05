@@ -1,0 +1,36 @@
+### Conforto, dentro do orçamento
+### entradas: Marina | 3 | 330
+
+Nome do cliente: Marina
+Quantidade de dias: 3
+Gasto por dia (R$): 330
+
+Cliente: Marina
+Total: R$ 990.00 - Pacote Conforto
+Dentro do orçamento de R$ 1000,00.
+
+----------------------------------------
+
+### Premium, fora do orçamento
+### entradas: Carlos | 5 | 400
+
+Nome do cliente: Carlos
+Quantidade de dias: 5
+Gasto por dia (R$): 400
+
+Cliente: Carlos
+Total: R$ 2000.00 - Pacote Premium
+Fora do orçamento! Excede em R$ 1000.00.
+
+----------------------------------------
+
+### Econômico, dentro do orçamento
+### entradas: Ana | 2 | 300
+
+Nome do cliente: Ana
+Quantidade de dias: 2
+Gasto por dia (R$): 300
+
+Cliente: Ana
+Total: R$ 600.00 - Pacote Econômico
+Dentro do orçamento de R$ 1000,00.

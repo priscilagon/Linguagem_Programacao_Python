@@ -1,0 +1,15 @@
+### execução de teste
+### entradas: Marina | Parintins | 3 | 200 | 50 | 80
+
+=== Agência Amazônia Tur Digital ===
+Nome do cliente: Marina
+Destino: Parintins
+Quantidade de dias: 3
+Hospedagem por dia (R$): 200
+Transporte por dia (R$): 50
+Alimentação por dia (R$): 80
+
+Cliente: Marina
+Destino: Parintins
+Gasto por dia: R$ 330.00
+Total da viagem (3 dias): R$ 990.00
