@@ -1,4 +1,4 @@
-# Pasta do professor (NÃO é publicada)
+# Pasta do professor(a)
 
 Esta pasta está listada no `.gitignore`: **o Git ignora tudo o que está aqui**, então ela **não vai para o GitHub** com `git add .` e `git push`. Mantenha-a apenas no seu computador (ou em um repositório **privado** à parte).
 
