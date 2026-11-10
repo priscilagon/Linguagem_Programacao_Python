@@ -1,0 +1,12 @@
+test_escolher_palavra (testes_logica.TestForca.test_escolher_palavra) ... ok
+test_exibicao (testes_logica.TestForca.test_exibicao) ... ok
+test_jogar_letra (testes_logica.TestForca.test_jogar_letra) ... ok
+test_rodada_completa_vitoria_com_um_erro (testes_logica.TestForca.test_rodada_completa_vitoria_com_um_erro) ... ok
+test_validar_letra (testes_logica.TestForca.test_validar_letra) ... ok
+test_venceu (testes_logica.TestForca.test_venceu) ... ok
+test_vidas_e_pontos (testes_logica.TestForca.test_vidas_e_pontos) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK

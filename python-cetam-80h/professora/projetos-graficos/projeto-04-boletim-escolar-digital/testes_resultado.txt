@@ -1,0 +1,12 @@
+test_buscar (testes_logica.TestBoletim.test_buscar) ... ok
+test_cadastro (testes_logica.TestBoletim.test_cadastro) ... ok
+test_cadastro_invalidos (testes_logica.TestBoletim.test_cadastro_invalidos) ... ok
+test_estatisticas (testes_logica.TestBoletim.test_estatisticas) ... ok
+test_media_e_situacao (testes_logica.TestBoletim.test_media_e_situacao) ... ok
+test_persistencia_e_relatorio (testes_logica.TestBoletim.test_persistencia_e_relatorio) ... ok
+test_validar_nota (testes_logica.TestBoletim.test_validar_nota) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK

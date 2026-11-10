@@ -1,0 +1,14 @@
+test_cadastro (testes_logica.TestAgenda.test_cadastro) ... ok
+test_cadastro_invalido (testes_logica.TestAgenda.test_cadastro_invalido) ... ok
+test_editar (testes_logica.TestAgenda.test_editar) ... ok
+test_listar_e_buscar (testes_logica.TestAgenda.test_listar_e_buscar) ... ok
+test_padronizacoes (testes_logica.TestAgenda.test_padronizacoes) ... ok
+test_persistencia (testes_logica.TestAgenda.test_persistencia) ... ok
+test_remover (testes_logica.TestAgenda.test_remover) ... ok
+test_resumo (testes_logica.TestAgenda.test_resumo) ... ok
+test_validacoes (testes_logica.TestAgenda.test_validacoes) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.002s
+
+OK

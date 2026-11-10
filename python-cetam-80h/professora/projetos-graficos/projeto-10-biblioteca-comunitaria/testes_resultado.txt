@@ -1,0 +1,15 @@
+test_acervo_inicial_criado_e_salvo (testes_logica.TestBiblioteca.test_acervo_inicial_criado_e_salvo) ... ok
+test_adicionar (testes_logica.TestBiblioteca.test_adicionar) ... ok
+test_buscas (testes_logica.TestBiblioteca.test_buscas) ... ok
+test_devolver_e_multa (testes_logica.TestBiblioteca.test_devolver_e_multa) ... ok
+test_devolver_falhas (testes_logica.TestBiblioteca.test_devolver_falhas) ... ok
+test_emprestar_ok_e_falhas (testes_logica.TestBiblioteca.test_emprestar_ok_e_falhas) ... ok
+test_limite_de_tres (testes_logica.TestBiblioteca.test_limite_de_tres) ... ok
+test_persistencia_entre_execucoes (testes_logica.TestBiblioteca.test_persistencia_entre_execucoes) ... ok
+test_relatorio (testes_logica.TestBiblioteca.test_relatorio) ... ok
+test_livro (testes_logica.TestLivro.test_livro) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.006s
+
+OK

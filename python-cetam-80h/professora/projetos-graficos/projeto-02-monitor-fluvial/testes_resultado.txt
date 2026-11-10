@@ -1,0 +1,12 @@
+test_barra (testes_logica.TestMonitor.test_barra) ... ok
+test_classificar_limites (testes_logica.TestMonitor.test_classificar_limites) ... ok
+test_consulta (testes_logica.TestMonitor.test_consulta) ... ok
+test_contagem (testes_logica.TestMonitor.test_contagem) ... ok
+test_estatisticas (testes_logica.TestMonitor.test_estatisticas) ... ok
+test_maior_subida (testes_logica.TestMonitor.test_maior_subida) ... ok
+test_validar_nivel (testes_logica.TestMonitor.test_validar_nivel) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+OK

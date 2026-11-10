@@ -1,0 +1,11 @@
+test_categorias (testes_logica.TestOrcamento.test_categorias) ... ok
+test_despesas_nao_incluem_receitas (testes_logica.TestOrcamento.test_despesas_nao_incluem_receitas) ... ok
+test_lancamento_invalido (testes_logica.TestOrcamento.test_lancamento_invalido) ... ok
+test_novo_lancamento (testes_logica.TestOrcamento.test_novo_lancamento) ... ok
+test_percentual_e_situacao (testes_logica.TestOrcamento.test_percentual_e_situacao) ... ok
+test_totais (testes_logica.TestOrcamento.test_totais) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.000s
+
+OK

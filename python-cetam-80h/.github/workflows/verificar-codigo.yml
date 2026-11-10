@@ -13,4 +13,4 @@ jobs:
         with:
           python-version: "3.12"
       - name: Verificar a sintaxe de todos os arquivos .py
-        run: python -m compileall -q aulas projeto-integrador-agencia-tur projetos-integradores tools
+        run: python -m compileall -q aulas projeto-integrador-agencia-tur projetos-integradores projetos-graficos tools

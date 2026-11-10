@@ -1,0 +1,14 @@
+test_banco_de_perguntas (testes_logica.TestQuiz.test_banco_de_perguntas) ... ok
+test_conferir (testes_logica.TestQuiz.test_conferir) ... ok
+test_erro_zera_sequencia (testes_logica.TestQuiz.test_erro_zera_sequencia) ... ok
+test_pontos_55 (testes_logica.TestQuiz.test_pontos_55) ... ok
+test_pontos_partida_45 (testes_logica.TestQuiz.test_pontos_partida_45) ... ok
+test_pontos_zero (testes_logica.TestQuiz.test_pontos_zero) ... ok
+test_recorde (testes_logica.TestQuiz.test_recorde) ... ok
+test_titulos (testes_logica.TestQuiz.test_titulos) ... ok
+test_validar_resposta (testes_logica.TestQuiz.test_validar_resposta) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.000s
+
+OK

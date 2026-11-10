@@ -1,0 +1,14 @@
+test_criar_conta (testes_logica.TestBanco.test_criar_conta) ... ok
+test_criar_conta_invalida (testes_logica.TestBanco.test_criar_conta_invalida) ... ok
+test_deposito_e_saque (testes_logica.TestBanco.test_deposito_e_saque) ... ok
+test_entrar (testes_logica.TestBanco.test_entrar) ... ok
+test_extrato (testes_logica.TestBanco.test_extrato) ... ok
+test_formatar (testes_logica.TestBanco.test_formatar) ... ok
+test_persistencia (testes_logica.TestBanco.test_persistencia) ... ok
+test_transferencia (testes_logica.TestBanco.test_transferencia) ... ok
+test_transferencia_invalida (testes_logica.TestBanco.test_transferencia_invalida) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK

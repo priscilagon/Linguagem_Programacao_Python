@@ -28,3 +28,9 @@ agenda.csv
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Arquivos gerados pelas telas
+nota_cliente.txt
+recorde.txt
+extrato_*.txt
+estoque.csv

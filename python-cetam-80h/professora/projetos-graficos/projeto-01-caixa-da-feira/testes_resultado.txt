@@ -1,0 +1,15 @@
+test_faixas_de_desconto (testes_logica.TestCaixa.test_faixas_de_desconto) ... ok
+test_fechamento (testes_logica.TestCaixa.test_fechamento) ... ok
+test_quantidade_valida_e_invalida (testes_logica.TestCaixa.test_quantidade_valida_e_invalida) ... ok
+test_resumo_com_10_por_cento (testes_logica.TestCaixa.test_resumo_com_10_por_cento) ... ok
+test_resumo_com_5_por_cento (testes_logica.TestCaixa.test_resumo_com_5_por_cento) ... ok
+test_resumo_sem_desconto (testes_logica.TestCaixa.test_resumo_sem_desconto) ... ok
+test_resumo_sem_itens (testes_logica.TestCaixa.test_resumo_sem_itens) ... ok
+test_troco (testes_logica.TestCaixa.test_troco) ... ok
+test_troco_insuficiente (testes_logica.TestCaixa.test_troco_insuficiente) ... ok
+test_valor_item (testes_logica.TestCaixa.test_valor_item) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.000s
+
+OK

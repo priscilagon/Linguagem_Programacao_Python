@@ -1,0 +1,14 @@
+test_cadastrar (testes_logica.TestEstoque.test_cadastrar) ... ok
+test_cadastrar_invalidos (testes_logica.TestEstoque.test_cadastrar_invalidos) ... ok
+test_estoque_inicial_novo_a_cada_chamada (testes_logica.TestEstoque.test_estoque_inicial_novo_a_cada_chamada) ... ok
+test_padronizar (testes_logica.TestEstoque.test_padronizar) ... ok
+test_relatorio (testes_logica.TestEstoque.test_relatorio) ... ok
+test_repor (testes_logica.TestEstoque.test_repor) ... ok
+test_valor_total_e_baixo (testes_logica.TestEstoque.test_valor_total_e_baixo) ... ok
+test_vender (testes_logica.TestEstoque.test_vender) ... ok
+test_vender_invalidos (testes_logica.TestEstoque.test_vender_invalidos) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.001s
+
+OK
