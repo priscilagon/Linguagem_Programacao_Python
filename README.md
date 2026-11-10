@@ -1,4 +1,4 @@
-# 🐍 Linguagem de Programação Python – CETAM (80h)
+#  Linguagem de Programação Python – CETAM (80h)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
 ![Carga horária](https://img.shields.io/badge/carga%20hor%C3%A1ria-80h-1F6FB2)
@@ -12,7 +12,7 @@ Você vai aprender **Python do zero**, usando o **Google Colab** e o **Visual St
 
 ---
 
-## 📚 Sumário
+##  Sumário
 
 - [O que você vai aprender](#-o-que-você-vai-aprender)
 - [Como usar este repositório](#-como-usar-este-repositório)
@@ -28,7 +28,7 @@ Você vai aprender **Python do zero**, usando o **Google Colab** e o **Visual St
 
 ---
 
-## 🎯 O que você vai aprender
+##  O que você vai aprender
 
 - Preparar o ambiente de programação no **Colab** e no **VS Code**.
 - Usar **variáveis, tipos de dados, entrada e saída** (`print`, `input`).
@@ -44,7 +44,7 @@ Você vai aprender **Python do zero**, usando o **Google Colab** e o **Visual St
 
 ---
 
-## 🚀 Como usar este repositório
+##  Como usar este repositório
 
 ### Opção 1 – Google Colab (sem instalar nada)
 
@@ -136,7 +136,7 @@ python-cetam-80h/
 
 ---
 
-## 🗺️ Mapa das 20 aulas
+##  Mapa das 20 aulas
 
 | Fase | Aula | Tema | Avaliação |
 | --- | --- | --- | --- |
@@ -174,7 +174,7 @@ Cada fase termina com uma entrega do projeto integrador:
 
 ---
 
-## 🌿 Projeto integrador: Agência Amazônia Tur Digital
+##  Projeto integrador: Agência Amazônia Tur Digital
 
 Você constrói, aula após aula, o sistema de uma agência de turismo fictícia — de uma simples calculadora de viagem até um **cofre digital** com cadastro, login e dados salvos em arquivo.
 
@@ -191,40 +191,40 @@ Você constrói, aula após aula, o sistema de uma agência de turismo fictícia
 
 ---
 
-## 🧩 Projetos integradores para praticar
+##  Projetos integradores para praticar
 
 Dez projetos em **dificuldade crescente** (dois ciclos de cinco), com enunciado, requisitos, regras de negócio, esqueleto de código e quadro de testes.
 
 | Projeto | Nível | Conteúdos |
 | --- | --- | --- |
-| [1 – Caixa da Feira do Produtor](projetos-integradores/projeto-01-caixa-da-feira/) | ★☆☆☆☆ | variáveis, tipos, `input()`, operadores, `if/elif/else`, `while`, `break`, `continue` |
-| [2 – Monitor Fluvial: Nível do Rio Negro](projetos-integradores/projeto-02-monitor-fluvial/) | ★★☆☆☆ | listas, dicionários, strings, `for`/`range`, decisões, métodos de listas e funções internas |
-| [3 – Estoque da Cooperativa Ribeirinha](projetos-integradores/projeto-03-estoque-da-cooperativa/) | ★★★☆☆ | dicionários aninhados, funções com parâmetros e retorno, menu com `while`, validações, strings |
-| [4 – Boletim Escolar Digital](projetos-integradores/projeto-04-boletim-escolar-digital/) | ★★★★☆ | listas de dicionários, funções, strings, arquivos `.txt` (leitura e escrita), laços e decisões |
+| [1 – Caixa da Feira do Produtor](projetos-integradores/projeto-01-caixa-da-feira/) | ★★★★★ | variáveis, tipos, `input()`, operadores, `if/elif/else`, `while`, `break`, `continue` |
+| [2 – Monitor Fluvial: Nível do Rio Negro](projetos-integradores/projeto-02-monitor-fluvial/) | ★★★★★ | listas, dicionários, strings, `for`/`range`, decisões, métodos de listas e funções internas |
+| [3 – Estoque da Cooperativa Ribeirinha](projetos-integradores/projeto-03-estoque-da-cooperativa/) | ★★★★★ | dicionários aninhados, funções com parâmetros e retorno, menu com `while`, validações, strings |
+| [4 – Boletim Escolar Digital](projetos-integradores/projeto-04-boletim-escolar-digital/) | ★★★★★ | listas de dicionários, funções, strings, arquivos `.txt` (leitura e escrita), laços e decisões |
 | [5 – Amazônia Bank: Mini-Banco Digital](projetos-integradores/projeto-05-amazonia-bank/) | ★★★★★ | classes e objetos, métodos, atributos, dicionário de objetos, arquivos, funções, menus aninhados e validações |
-| [6 – Quiz da Floresta Amazônica](projetos-integradores/projeto-06-quiz-da-floresta-amazonica/) | ★☆☆☆☆ | variáveis, `input()`, operadores, `if/elif/else`, `while`, `for`/`range`, contadores e acumuladores |
-| [7 – Meu Orçamento Familiar](projetos-integradores/projeto-07-meu-orcamento-familiar/) | ★★☆☆☆ | listas, dicionários, listas de dicionários, strings, `for`/`range`, decisões e validações |
-| [8 – Forca Amazônica](projetos-integradores/projeto-08-forca-amazonica/) | ★★★☆☆ | funções com parâmetros e retorno, tuplas, listas, strings, laços e decisões |
-| [9 – Agenda de Contatos Comunitária](projetos-integradores/projeto-09-agenda-de-contatos-comunitaria/) | ★★★★☆ | funções, listas de dicionários, strings, validações, arquivos `.txt`, busca, edição e remoção |
+| [6 – Quiz da Floresta Amazônica](projetos-integradores/projeto-06-quiz-da-floresta-amazonica/) | ★★★★★ | variáveis, `input()`, operadores, `if/elif/else`, `while`, `for`/`range`, contadores e acumuladores |
+| [7 – Meu Orçamento Familiar](projetos-integradores/projeto-07-meu-orcamento-familiar/) | ★★★★★ | listas, dicionários, listas de dicionários, strings, `for`/`range`, decisões e validações |
+| [8 – Forca Amazônica](projetos-integradores/projeto-08-forca-amazonica/) | ★★★★★ | funções com parâmetros e retorno, tuplas, listas, strings, laços e decisões |
+| [9 – Agenda de Contatos Comunitária](projetos-integradores/projeto-09-agenda-de-contatos-comunitaria/) | ★★★★★ | funções, listas de dicionários, strings, validações, arquivos `.txt`, busca, edição e remoção |
 | [10 – Biblioteca Comunitária](projetos-integradores/projeto-10-biblioteca-comunitaria/) | ★★★★★ | classes e objetos que colaboram entre si, dicionário de objetos, arquivos, validações e regras de negócio |
 
 ---
 
-## 🖥️ Projetos com interface gráfica (1 a 10)
+##  Projetos com interface gráfica (1 a 10)
 
 Os mesmos dez projetos, agora com **janelas** feitas em `tkinter`, prontas para rodar no VS Code. A tela já vem pronta; você implementa a **lógica** em `logica.py` e confere com testes automáticos.
 
 | Projeto | Nível | Aulas |
 | --- | --- | --- |
-| [1 – Caixa da Feira do Produtor](projetos-graficos/projeto-01-caixa-da-feira/) | ★☆☆☆☆ | Aulas 1 a 10 |
-| [2 – Monitor Fluvial: Nível do Rio Negro](projetos-graficos/projeto-02-monitor-fluvial/) | ★★☆☆☆ | Aulas 1 a 14 |
-| [3 – Estoque da Cooperativa Ribeirinha](projetos-graficos/projeto-03-estoque-da-cooperativa/) | ★★★☆☆ | Aulas 1 a 16 |
-| [4 – Boletim Escolar Digital](projetos-graficos/projeto-04-boletim-escolar-digital/) | ★★★★☆ | Aulas 1 a 17 |
+| [1 – Caixa da Feira do Produtor](projetos-graficos/projeto-01-caixa-da-feira/) | ★★★★★ | Aulas 1 a 10 |
+| [2 – Monitor Fluvial: Nível do Rio Negro](projetos-graficos/projeto-02-monitor-fluvial/) | ★★★★★ | Aulas 1 a 14 |
+| [3 – Estoque da Cooperativa Ribeirinha](projetos-graficos/projeto-03-estoque-da-cooperativa/) | ★★★★★ | Aulas 1 a 16 |
+| [4 – Boletim Escolar Digital](projetos-graficos/projeto-04-boletim-escolar-digital/) | ★★★★★ | Aulas 1 a 17 |
 | [5 – Amazônia Bank: Mini-Banco Digital](projetos-graficos/projeto-05-amazonia-bank/) | ★★★★★ | Aulas 1 a 20 |
-| [6 – Quiz da Floresta Amazônica](projetos-graficos/projeto-06-quiz-da-floresta-amazonica/) | ★☆☆☆☆ | Aulas 1 a 10 |
-| [7 – Meu Orçamento Familiar](projetos-graficos/projeto-07-meu-orcamento-familiar/) | ★★☆☆☆ | Aulas 1 a 14 |
-| [8 – Forca Amazônica](projetos-graficos/projeto-08-forca-amazonica/) | ★★★☆☆ | Aulas 1 a 16 |
-| [9 – Agenda de Contatos Comunitária](projetos-graficos/projeto-09-agenda-de-contatos-comunitaria/) | ★★★★☆ | Aulas 1 a 17 |
+| [6 – Quiz da Floresta Amazônica](projetos-graficos/projeto-06-quiz-da-floresta-amazonica/) | ★★★★★ | Aulas 1 a 10 |
+| [7 – Meu Orçamento Familiar](projetos-graficos/projeto-07-meu-orcamento-familiar/) | ★★★★★ | Aulas 1 a 14 |
+| [8 – Forca Amazônica](projetos-graficos/projeto-08-forca-amazonica/) | ★★★★★ | Aulas 1 a 16 |
+| [9 – Agenda de Contatos Comunitária](projetos-graficos/projeto-09-agenda-de-contatos-comunitaria/) | ★★★★★ | Aulas 1 a 17 |
 | [10 – Biblioteca Comunitária](projetos-graficos/projeto-10-biblioteca-comunitaria/) | ★★★★★ | Aulas 1 a 20 |
 
 ```bash
@@ -235,25 +235,25 @@ python app.py                            # abre a janela
 
 Veja o guia completo em [`projetos-graficos/`](projetos-graficos/) e o caderno em Word em [`material/`](material/Projetos_Graficos_Caderno_do_Aluno.docx).
 
-## 📝 Avaliações
+##  Avaliações
 
 O curso tem avaliação diagnóstica, avaliações formativas e quatro atividades avaliativas (**AV1 a AV4**). Detalhes em **[docs/AVALIACOES.md](docs/AVALIACOES.md)**.
 
 ---
 
-## 👩‍🏫 Para professores
+##  Para professores
 
 A pasta `_professor/` (gabaritos, soluções de referência e matrizes de correção) está no `.gitignore` e **não é publicada**. Se este repositório for público, **não remova** essa linha. Veja `_professor/README.md` na sua cópia local.
 
 ---
 
-## 🤝 Contribuindo
+##  Contribuindo
 
 Encontrou um erro ou tem uma sugestão? Abra uma **Issue** ou um **Pull Request**. Veja **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
 ---
 
-## 📄 Licença e autoria
+##  Licença e autoria
 
 Distribuído sob a licença **MIT** — veja [LICENSE](LICENSE).
 
